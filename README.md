@@ -155,7 +155,7 @@ implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.7.0'
 implementation 'com.google.android.material:material:1.11.0'
 ```
 
-## 🤝 Kontribusi
+##  Kontribusi
 
 Kontribusi selalu diterima! Untuk berkontribusi:
 
@@ -165,25 +165,25 @@ Kontribusi selalu diterima! Untuk berkontribusi:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📝 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Developer
+##  Developer
 
 - **Nama**: Moch Ali Murtadlo
 - **Email**: moch_2205101151@unipma.ac.id
 - **GitHub**: https://github.com/MochAliMurtadlo
 
 
-## 📞 Support
+##  Support
 
 Jika mengalami kendala atau memiliki saran:
-- 🐛 [Report Bug](https://github.com/username/smart-parking-timer/issues)
-- 💡 [Request Feature](https://github.com/username/smart-parking-timer/issues)
-- 📧 Email: support@smartparking.com
+-  [Report Bug](https://github.com/username/smart-parking-timer/issues)
+-  [Request Feature](https://github.com/username/smart-parking-timer/issues)
+-  Email: support@smartparking.com
 
-## 🎯 Roadmap
+##  Roadmap
 
 - [ ] **v2.0**: GPS Location tracking
 - [ ] **v2.1**: Export PDF functionality
@@ -193,6 +193,6 @@ Jika mengalami kendala atau memiliki saran:
 
 ---
 
-**Made with ❤️ for UTS & UAS Mobile Programming**
+**Made with  for UTS & UAS Mobile Programming**
 
 *Smart Parking Timer - Kelola parkir dengan mudah dan efisien!*
