@@ -103,7 +103,8 @@
 
 | Home Screen | Timer Active | Result Screen | History |
 |-------------|--------------|---------------|---------|
-| ![Home](screenshots/home.png) | ![Timer](screenshots/timer.png) | ![Result](screenshots/result.png) | ![History](screenshots/history.png) |
+| ![Home](![2](https://github.com/user-attachments/assets/ab51a31c-124a-4e0b-863c-96b770e2b9e9)
+) | ![Timer](screenshots/timer.png) | ![Result](screenshots/result.png) | ![History](screenshots/history.png) |
 
 ## 📊 Struktur Project
 
