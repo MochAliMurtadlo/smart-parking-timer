@@ -1,14 +1,14 @@
-# Smart Parking Timer
+# 🚗 Smart Parking Timer
 
 ![Smart Parking Timer](https://img.shields.io/badge/Platform-Android-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Kotlin-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Deskripsi
+## 📱 Deskripsi
 
 **Smart Parking Timer** adalah aplikasi Android yang dirancang untuk memudahkan pengguna dalam memantau durasi parkir kendaraan. Aplikasi ini mencatat waktu masuk dan keluar parkir, menghitung total durasi, serta memperkirakan biaya parkir berdasarkan jenis kendaraan.
 
-## Fitur Utama
+## ✨ Fitur Utama
 
 ### 🔹 Fitur Inti (UTS)
 - ✅ **Input Data Kendaraan** - Plat nomor dan jenis kendaraan
@@ -103,11 +103,7 @@
 
 | Home Screen | Timer Active | Result Screen | History |
 |-------------|--------------|---------------|---------|
-| ![Home](![2](https://github.com/user-attachments/assets/ab51a31c-124a-4e0b-863c-96b770e2b9e9)
-) | ![Timer](![4](https://github.com/user-attachments/assets/82778f18-5907-41ef-8459-c7837bb491a6)
-) | ![Result](![5](https://github.com/user-attachments/assets/6f60625f-6d39-4be7-ba33-e06f7c36dbea)
-) | ![History](![6](https://github.com/user-attachments/assets/b34b4782-07be-495a-a3b1-a752269a0fd1)
-) |
+| ![Home](screenshots/home.png) | ![Timer](screenshots/timer.png) | ![Result](screenshots/result.png) | ![History](screenshots/history.png) |
 
 ## 📊 Struktur Project
 
@@ -159,7 +155,7 @@ implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.7.0'
 implementation 'com.google.android.material:material:1.11.0'
 ```
 
-##  Kontribusi
+## 🤝 Kontribusi
 
 Kontribusi selalu diterima! Untuk berkontribusi:
 
@@ -169,25 +165,24 @@ Kontribusi selalu diterima! Untuk berkontribusi:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-##  License
+## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-##  Developer
+## 👨‍💻 Developer
 
-- **Nama**: Moch Ali Murtadlo
-- **Email**: moch_2205101151@unipma.ac.id
-- **GitHub**: https://github.com/MochAliMurtadlo
+- **Nama**: [Your Name]
+- **Email**: [your.email@example.com]
+- **GitHub**: [@yourusername](https://github.com/yourusername)
 
-
-##  Support
+## 📞 Support
 
 Jika mengalami kendala atau memiliki saran:
--  [Report Bug](https://github.com/username/smart-parking-timer/issues)
--  [Request Feature](https://github.com/username/smart-parking-timer/issues)
--  Email: support@smartparking.com
+- 🐛 [Report Bug](https://github.com/username/smart-parking-timer/issues)
+- 💡 [Request Feature](https://github.com/username/smart-parking-timer/issues)
+- 📧 Email: support@smartparking.com
 
-##  Roadmap
+## 🎯 Roadmap
 
 - [ ] **v2.0**: GPS Location tracking
 - [ ] **v2.1**: Export PDF functionality
@@ -197,6 +192,6 @@ Jika mengalami kendala atau memiliki saran:
 
 ---
 
-**Made with  for UTS & UAS Mobile Programming**
+**Made with ❤️ for UTS & UAS Mobile Programming**
 
 *Smart Parking Timer - Kelola parkir dengan mudah dan efisien!*
